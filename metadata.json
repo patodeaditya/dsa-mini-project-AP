@@ -1,0 +1,8 @@
+{
+  "name": "SmartPark",
+  "description": "Smart Parking Management System with real-time slot tracking, FIFO queue, LIFO exit stack, and activity history.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
